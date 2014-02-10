@@ -1,3 +1,4 @@
+
 # Squawker
 
 ## Summary
@@ -8,5 +9,6 @@ This is a basic twitter clone.
 
 ## Project Setup
 
-1. Create the databases:
-  `rake db:create:all`
+TBD
+
+
