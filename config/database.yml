@@ -19,7 +19,7 @@ development:
   encoding: unicode
   database: squawker_development
   pool: 5
-  username: brian
+  # username: brian
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -47,7 +47,7 @@ test: &test
   encoding: unicode
   database: squawker_test
   pool: 5
-  username: brian
+  # username: brian
 
 # Eliza says: Never, ever, keep production credentials in git.
 # Instead, have this file replaced as part of your deployment
